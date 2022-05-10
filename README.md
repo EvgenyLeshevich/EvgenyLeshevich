@@ -25,6 +25,6 @@ A beginner Java developer who dreams of Java and is well versed in the developme
 *   git, GitHub
 *   Docker, Swagger, Postman
 
-### My opensource projects
+### My projects
 
 *   [EL-store](https://github.com/EvgenyLeshevich/EL-store) - Online store
